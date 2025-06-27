@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "KingOT",
-	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/v1/KingOT.zip",
-	"clientExecutable": "ClienteTesteServer.exe"
+	"clientFolder": "client",
+	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/v2/client.zip",
+	"clientExecutable": "client.exe"
 }
