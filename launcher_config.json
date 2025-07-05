@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv3/client.zip",
+	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv4/client.zip",
 	"clientExecutable": "client1.exe"
 }
