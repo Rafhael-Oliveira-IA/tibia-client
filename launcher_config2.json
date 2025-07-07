@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "15.00.259",
-	"launcherVersion": "1.4",
+	"launcherVersion": "1.5",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv4/client.zip",
+	"newClientUrl" : "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv5/client.zip",
 	"clientExecutable": "client1.exe"
 }
