@@ -2,24 +2,24 @@
   "officialServer": {
     "items": [
       {
-        "title": "New Vocation: Monk",
-        "description": "The Monk has arrived to join forces and bring a new style of play with unique abilities and combat techniques.",
+        "title": "PROMOÇÃO DE LANÇAMENTO",
+        "description": "Promoções incríveis para você correr atrás e alcançar o TOP e alcançar primeiro o level 1500 e ganhar até R$1.500,00.",
         "imageUrl": "https://kingot.com.br/updates/clientes/news/background_01.png",
         "backgroundColor": "#284064",
         "isActive": true,
         "expiryDate": "2025-12-31T23:59:59"
       },
       {
-        "title": "Epic Boss Battle",
-        "description": "Face the legendary Dragon Lord in the newly opened Demon Forge dungeon. Rare rewards await!",
+        "title": "CALENDÁRIO DE EVENTOS",
+        "description": "Um mês repleto de eventos para comemorar nosso aniverário de 1 mês! Fique atento, teremos invasão de Ferumbras!",
         "imageUrl": "https://kingot.com.br/updates/clientes/news/background_02.png",
         "backgroundColor": "#3C2850",
         "isActive": true,
         "expiryDate": null
       },
       {
-        "title": "Double XP Weekend",
-        "description": "Join us this weekend for double experience points! Level up faster and reach new heights.",
+        "title": "LANÇAMENTO",
+        "description": "Bem vindo ao nosso LANÇAMENTO!",
         "imageUrl": "https://kingot.com.br/updates/clientes/news/background_03.png",
         "backgroundColor": "#28503C",
         "isActive": true,
