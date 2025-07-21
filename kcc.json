@@ -2,24 +2,24 @@
   "OfficialServer": {
     "Items": [
       {
-        "Title": "New Vocation: Monk",
-        "Description": "The Monk has arrived to join forces and bring a new style of play with unique abilities and combat techniques.",
+        "Title": "Promoções",
+        "Description": "Adquira seus pontos e participe do evento da corrida pelo TOP e garanta R$1.500,00",
         "ImageUrl": "https://kingot.com.br/updates/clientes/news/background_01.png",
         "BackgroundColor": "#284064",
         "IsActive": true,
         "ExpiryDate": "2025-12-31T23:59:59"
       },
       {
-        "Title": "Epic Boss Battle",
-        "Description": "Face the legendary Dragon Lord in the newly opened Demon Forge dungeon. Rare rewards await!",
+        "Title": "AGOSTO - MÊS DE EVENTOS",
+        "Description": "Agosto iremos comemorar nosso primeiro mês e neste mês terá invasão de Ferumbras além de diversos eventos!",
         "ImageUrl": "https://kingot.com.br/updates/clientes/news/background_02.png",
         "BackgroundColor": "#3C2850",
         "IsActive": true,
         "ExpiryDate": null
       },
       {
-        "Title": "Double XP Weekend",
-        "Description": "Join us this weekend for double experience points! Level up faster and reach new heights.",
+        "Title": "ABERTURA OFICIAL",
+        "Description": "Sejam bem vindos a Cidade de Porto Esperanza!",
         "ImageUrl": "https://kingot.com.br/updates/clientes/news/background_03.png",
         "BackgroundColor": "#28503C",
         "IsActive": true,
@@ -38,7 +38,7 @@
         "Description": "Teste a nova vocação Monk antes do lançamento oficial! Experiência única no servidor de testes.",
         "ImageUrl": "https://kingot.com.br/images/test-monk-beta.jpg",
         "BackgroundColor": "#502040",
-        "IsActive": true,
+        "IsActive": null,
         "ExpiryDate": "2025-12-31T23:59:59"
       },
       {
