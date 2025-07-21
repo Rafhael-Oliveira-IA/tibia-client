@@ -28,7 +28,7 @@
     ],
     "autoAdvanceInterval": 4000,
     "lastUpdated": "2025-07-21T12:00:00",
-    "clientZipUrl": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v1.0.0/client.zip",
+    "clientZipUrl": "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv7-clean/client.zip",
     "clientVersion": "1.0.0"
   },
   "testServer": {
@@ -68,7 +68,7 @@
     ],
     "autoAdvanceInterval": 4000,
     "lastUpdated": "2025-07-21T12:00:00",
-    "clientZipUrl": "https://github.com/SEU_USUARIO/SEU_REPO/releases/download/v1.0.0-beta/test-client.zip",
+    "clientZipUrl": "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv7-clean/client.zip",
     "clientVersion": "1.0.0-beta"
   }
 }
