@@ -38,7 +38,7 @@
         "Description": "Teste a nova vocação Monk antes do lançamento oficial! Experiência única no servidor de testes.",
         "ImageUrl": "https://kingot.com.br/images/test-monk-beta.jpg",
         "BackgroundColor": "#502040",
-        "IsActive": null,
+        "IsActive": true,
         "ExpiryDate": "2025-12-31T23:59:59"
       },
       {
