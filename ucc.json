@@ -1,0 +1,74 @@
+{
+  "officialServer": {
+    "items": [
+      {
+        "title": "PROMOÇÃO DE LANÇAMENTO",
+        "description": "Promoções incríveis para você correr atrás e alcançar o TOP e alcançar primeiro o level 1500 e ganhar até R$1.500,00.",
+        "imageUrl": "https://kingot.com.br/updates/clientes/news/background_01.png",
+        "backgroundColor": "#284064",
+        "isActive": true,
+        "expiryDate": "2025-12-31T23:59:59"
+      },
+      {
+        "title": "CALENDÁRIO DE EVENTOS",
+        "description": "Um mês repleto de eventos para comemorar nosso aniverário de 1 mês! Fique atento, teremos invasão de Ferumbras!",
+        "imageUrl": "https://kingot.com.br/updates/clientes/news/background_02.png",
+        "backgroundColor": "#3C2850",
+        "isActive": true,
+        "expiryDate": null
+      },
+      {
+        "title": "LANÇAMENTO",
+        "description": "Bem vindo ao nosso LANÇAMENTO!",
+        "imageUrl": "https://kingot.com.br/updates/clientes/news/background_03.png",
+        "backgroundColor": "#28503C",
+        "isActive": true,
+        "expiryDate": "2025-08-15T23:59:59"
+      }
+    ],
+    "autoAdvanceInterval": 4000,
+    "lastUpdated": "2025-07-21T12:00:00",
+    "clientZipUrl": "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv7-clean/client.zip",
+    "clientVersion": "1.0.0"
+  },
+  "testServer": {
+    "items": [
+      {
+        "title": "Test Server - Monk Beta",
+        "description": "Teste a nova vocação Monk antes do lançamento oficial! Experiência única no servidor de testes.",
+        "imageUrl": "https://kingot.com.br/images/test-monk-beta.jpg",
+        "backgroundColor": "#502040",
+        "isActive": true,
+        "expiryDate": "2025-12-31T23:59:59"
+      },
+      {
+        "title": "Beta Testing Events",
+        "description": "Participe de eventos exclusivos do servidor de teste e ajude-nos a balancear o jogo.",
+        "imageUrl": "https://kingot.com.br/images/test-events.jpg",
+        "backgroundColor": "#403050",
+        "isActive": true,
+        "expiryDate": null
+      },
+      {
+        "title": "New Dungeon Preview",
+        "description": "Explore a nova dungeon 'Crystal Caves' antes do lançamento no servidor principal!",
+        "imageUrl": "https://kingot.com.br/images/test-crystal-caves.jpg",
+        "backgroundColor": "#305040",
+        "isActive": true,
+        "expiryDate": "2025-09-30T23:59:59"
+      },
+      {
+        "title": "Experimental Features",
+        "description": "Teste funcionalidades experimentais e nos dê feedback para melhorar o jogo.",
+        "imageUrl": "https://kingot.com.br/images/test-experimental.jpg",
+        "backgroundColor": "#504030",
+        "isActive": true,
+        "expiryDate": null
+      }
+    ],
+    "autoAdvanceInterval": 4000,
+    "lastUpdated": "2025-07-21T12:00:00",
+    "clientZipUrl": "https://github.com/Rafhael-Oliveira-IA/tibia-client/releases/download/kv7-clean/client.zip",
+    "clientVersion": "1.0.0-beta"
+  }
+}
